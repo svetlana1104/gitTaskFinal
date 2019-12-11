@@ -1,7 +1,7 @@
 1.txt: Line 1 update! git_0, item 7 of task 
 1.txt: Line 2 update! git_0, item 7 of task
-1.txt: Line 3
-1.txt: Line 4
+1.txt: Line 3 UP! git_1, item 19 
+1.txt: Line 4 UP! git_1, item 19 
 1.txt: Line 5 UP! git_0, item 18 
 1.txt: Line 6 UP! git_0, item 18 
 1.txt: Line 7
